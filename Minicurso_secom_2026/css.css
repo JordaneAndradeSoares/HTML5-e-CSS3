@@ -1,0 +1,32 @@
+/* qualquer "a" em qualquer arquivo */
+a{
+    color: orangered
+}
+
+/* arquivo index.html */ 
+#texto_banana{
+    color: yellow;
+    background-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#texto_uva{
+    color: purple;
+    background-color: yellowgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* arquivo site2.html */ 
+#fundo_site2{
+    background-color: blueviolet;
+}
+
+/* arquivo site3.html */
+#fundo_site3{
+    background-color: burlywood;
+}
+
+#texto_faustão{
+    text-align: center;
+    background-color: antiquewhite;
+}
